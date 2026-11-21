@@ -1,12 +1,10 @@
-Daybreak 1.0
+Daybreak 1.1
 
-First release.
+- Radio station pictures fixed. BBC station logos now show, and stations whose picture link no longer works borrow the picture from another listing of the same station or from the station's own website.
+- White logos get a dark tile so they stay visible.
+- What each station finds is remembered on the phone, so it is looked up only once.
 
-- Wake to any song, several songs that change each morning, a radio station, your own music or one of ten built-in tones.
-- The song for the next alarm is saved on the phone ahead of time, and a backup tone rings if the chosen sound does not start.
-- Gentle wake with a sunrise screen, wake-up tasks, repeat until I'm up, and an optional are-you-up check.
-- Days off, holiday dates and UK bank holidays, chosen per alarm.
-- World clock, timers, stopwatch, bedtime, widgets and a backup file.
+Installs over 1.0 and keeps your alarms and settings.
 
 Full notes: https://customgpter.github.io/daybreak/releases.html
 
@@ -14,4 +12,4 @@ Full notes: https://customgpter.github.io/daybreak/releases.html
 
 **Use it lawfully.** Daybreak plays music that other people own. In the UK, copying or sharing it without permission can break the Copyright, Designs and Patents Act 1988. Laws differ in other countries.
 
-**Checking the file.** 57.5 MB (57530297 bytes). SHA-256: `e4d1ad6a6ae78891bbe6d294b23a3e5da83101b53298a15693c967e97c75f41b`
+**Checking the file.** 57.8 MB (57754503 bytes). SHA-256: `d2c03d7e4f275988059133ff505c98800d8db80b1b38c0185c7d67e32e73b380`
